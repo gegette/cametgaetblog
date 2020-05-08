@@ -1,6 +1,6 @@
 # cametgaetblog
 
-> My magnificent Nuxt.js project
+> Cam & Gaet au bout du monde !
 
 ## Build Setup
 

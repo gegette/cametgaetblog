@@ -6,7 +6,7 @@
         cametgaetblog
       </h1>
       <h2 class="subtitle">
-        My magnificent Nuxt.js project
+        Cam & Gaet au bout du monde !
       </h2>
       <div class="links">
         <a
